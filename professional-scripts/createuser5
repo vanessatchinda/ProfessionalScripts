@@ -1,0 +1,46 @@
+#!/bin/bash
+# Date
+# Description: This script will create a user account with description, ID and chekck for existing users and IDs 
+# grep -q means quiet or silent. ie whatever the output of the grep is, keep it silent
+# exit 0 means completely exit the entire script
+
+echo "Please provise a username"
+read u
+echo
+
+grep -q $u /etc/passwd	
+	if [ $? -eq 0 ]
+	then
+	echo ERROR -- User already exist
+	sleep 1
+	echo please choose another username
+	echo
+	exit 0
+	fi
+echo "please provide user description"
+read d
+echo
+
+echo " Do you want to specified a user ID (y/n)"
+read ynu
+	if [ $ynu == y ]
+	then
+	echo " Please enter your user id "
+	read uid
+		grep -q $uid /etc/passwd
+		if [ $? -eq 0 ]
+		then
+		echo Error -- userID $uid already exist
+		echo
+		exit 0
+		else
+		useradd $u -c "$d" -u $uid
+		echo
+		echo $u account has been created
+		fi
+	elif [ $ynu == n ]
+	then
+	echo No worries, we will assign a UID
+	useradd $u -c "$d"
+	fi
+

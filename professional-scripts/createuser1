@@ -1,0 +1,12 @@
+#!/bin/bash
+# Date
+# Description: This script will create a user account
+
+echo "Please provise a username"
+read u
+echo
+
+useradd $u
+echo $u account has been created
+echo
+

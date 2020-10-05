@@ -1,0 +1,36 @@
+#!/bin/bash
+# Date
+# Description: This script will add system inventory to database file
+
+
+echo Please enter hostname?
+read host
+echo
+	grep -q $hosts /root/udemyscript/professional-scripts/database
+	if [ $? -eq 0 ]
+	then
+	echo ERROR -- Hostname $host already exist
+	echo
+	exit
+	fi
+
+echo Please enter IP address?
+read IP
+echo
+	grep -q $IP /root/udemyscript/professional-scripts/database
+	if [ $? -eq 0 ]
+	then
+	echo  ERROR -- IP $IP already exist
+	echo
+	exit 0
+	fi
+	
+
+echo please enter description
+read description
+echo
+
+echo $host $IP $description >> /root/udemyscript/professional-scripts/database
+echo the provided record has beeb added
+echo
+

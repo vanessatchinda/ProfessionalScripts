@@ -1,0 +1,9 @@
+#!/bin/bash
+# Date
+# Description: This script will rename files endign wiht .txt
+# Modified
+
+for filename in *.txt
+do
+	mv $filename ${filename%.txt}.none
+done

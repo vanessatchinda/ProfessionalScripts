@@ -1,0 +1,13 @@
+#!/bin/bash
+# Author
+# Date
+# Description: This script will disable inactive user accounts with for loop
+# tail -n means get rid of the first line
+# lastlog -b 90 will give you the users that haven't logging in the past 90 days
+
+a=`lastlog | tail -n+2 | grep 'test' | awk '{print $1}'`
+
+for i in $a
+do
+	usermod -L $i
+ done

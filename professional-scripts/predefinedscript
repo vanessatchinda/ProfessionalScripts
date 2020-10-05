@@ -1,0 +1,20 @@
+#!/bin/bash
+
+read -r -p "Enter name of the script: " script
+read -r -p  "what is your full name: " fname
+read -r -p "what us the description of this script:" description
+
+echo "#!/bin/bash" > /root/udemyscript/professional-scripts/${script}
+echo
+echo "################################################################" >> /root/udemyscript/professional-scripts/${script}
+echo
+echo "#Author: "$fname >> /root/udemyscript/professional-scripts/${script}
+echo
+echo "#Description: " $description >> /root/udemyscript/professional-scripts/${script}
+echo
+echo "#Modified: " $(date) >> /root/udemyscript/professional-scripts/${script}
+echo
+echo "##############################################################" >> /root/udemyscript/professional-scripts/${script}
+echo
+chmod a+x ${script}
+vim ${script}

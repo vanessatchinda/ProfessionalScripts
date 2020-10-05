@@ -1,0 +1,11 @@
+#!/bin/bash
+# Date
+# Author
+# Description: Format the output of admin commands
+
+
+
+date | awk '{print $1}'
+uptime | awk '{print}'
+df -h | grep root
+

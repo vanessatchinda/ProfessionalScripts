@@ -1,0 +1,227 @@
+Sep 20 03:25:01 localhost rsyslogd: [origin software="rsyslogd" swVersion="8.24.0-52.el7_8.2" x-pid="1079" x-info="http://www.rsyslog.com"] rsyslogd was HUPed
+Sep 20 03:25:02 localhost rhsmd: In order for Subscription Manager to provide your system with updates, your system must be registered with the Customer Portal. Please enter your Red Hat login to ensure your system is up-to-date.
+Sep 20 03:30:01 localhost systemd: Started Session 307 of user root.
+Sep 20 03:40:01 localhost systemd: Started Session 308 of user root.
+Sep 20 03:50:01 localhost systemd: Started Session 309 of user root.
+Sep 20 03:55:14 localhost systemd-logind: Removed session 172.
+Sep 20 03:55:14 localhost systemd: Removed slice User Slice of root.
+Sep 20 04:00:01 localhost systemd: Created slice User Slice of root.
+Sep 20 04:00:01 localhost systemd: Started Session 310 of user root.
+Sep 20 04:00:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 04:01:01 localhost systemd: Created slice User Slice of root.
+Sep 20 04:01:01 localhost systemd: Started Session 311 of user root.
+Sep 20 04:01:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 04:10:01 localhost systemd: Created slice User Slice of root.
+Sep 20 04:10:01 localhost systemd: Started Session 312 of user root.
+Sep 20 04:10:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 04:20:01 localhost systemd: Created slice User Slice of root.
+Sep 20 04:20:01 localhost systemd: Started Session 313 of user root.
+Sep 20 04:20:02 localhost systemd: Removed slice User Slice of root.
+Sep 20 04:30:01 localhost systemd: Created slice User Slice of root.
+Sep 20 04:30:01 localhost systemd: Started Session 314 of user root.
+Sep 20 04:30:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 04:40:01 localhost systemd: Created slice User Slice of root.
+Sep 20 04:40:01 localhost systemd: Started Session 315 of user root.
+Sep 20 04:40:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 04:50:01 localhost systemd: Created slice User Slice of root.
+Sep 20 04:50:01 localhost systemd: Started Session 316 of user root.
+Sep 20 04:50:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 05:00:01 localhost systemd: Created slice User Slice of root.
+Sep 20 05:00:01 localhost systemd: Started Session 317 of user root.
+Sep 20 05:00:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 05:01:01 localhost systemd: Created slice User Slice of root.
+Sep 20 05:01:01 localhost systemd: Started Session 318 of user root.
+Sep 20 05:01:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 05:10:01 localhost systemd: Created slice User Slice of root.
+Sep 20 05:10:01 localhost systemd: Started Session 319 of user root.
+Sep 20 05:10:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 05:20:01 localhost systemd: Created slice User Slice of root.
+Sep 20 05:20:01 localhost systemd: Started Session 320 of user root.
+Sep 20 05:20:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 05:30:01 localhost systemd: Created slice User Slice of root.
+Sep 20 05:30:01 localhost systemd: Started Session 321 of user root.
+Sep 20 05:30:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 05:40:01 localhost systemd: Created slice User Slice of root.
+Sep 20 05:40:01 localhost systemd: Started Session 322 of user root.
+Sep 20 05:40:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 05:50:02 localhost systemd: Created slice User Slice of root.
+Sep 20 05:50:02 localhost systemd: Started Session 323 of user root.
+Sep 20 05:50:02 localhost systemd: Removed slice User Slice of root.
+Sep 20 06:00:01 localhost systemd: Created slice User Slice of root.
+Sep 20 06:00:01 localhost systemd: Started Session 324 of user root.
+Sep 20 06:00:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 06:01:01 localhost systemd: Created slice User Slice of root.
+Sep 20 06:01:01 localhost systemd: Started Session 325 of user root.
+Sep 20 06:01:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 06:10:01 localhost systemd: Created slice User Slice of root.
+Sep 20 06:10:01 localhost systemd: Started Session 326 of user root.
+Sep 20 06:10:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 06:20:01 localhost systemd: Created slice User Slice of root.
+Sep 20 06:20:01 localhost systemd: Started Session 327 of user root.
+Sep 20 06:20:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 06:30:01 localhost systemd: Created slice User Slice of root.
+Sep 20 06:30:01 localhost systemd: Started Session 328 of user root.
+Sep 20 06:30:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 06:40:01 localhost systemd: Created slice User Slice of root.
+Sep 20 06:40:01 localhost systemd: Started Session 329 of user root.
+Sep 20 06:40:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 06:50:01 localhost systemd: Created slice User Slice of root.
+Sep 20 06:50:01 localhost systemd: Started Session 330 of user root.
+Sep 20 06:50:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 07:00:02 localhost systemd: Created slice User Slice of root.
+Sep 20 07:00:02 localhost systemd: Started Session 331 of user root.
+Sep 20 07:00:02 localhost systemd: Removed slice User Slice of root.
+Sep 20 07:01:01 localhost systemd: Created slice User Slice of root.
+Sep 20 07:01:01 localhost systemd: Started Session 332 of user root.
+Sep 20 07:01:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 07:10:01 localhost systemd: Created slice User Slice of root.
+Sep 20 07:10:01 localhost systemd: Started Session 333 of user root.
+Sep 20 07:10:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 07:20:01 localhost systemd: Created slice User Slice of root.
+Sep 20 07:20:01 localhost systemd: Started Session 334 of user root.
+Sep 20 07:20:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 07:30:01 localhost systemd: Created slice User Slice of root.
+Sep 20 07:30:01 localhost systemd: Started Session 335 of user root.
+Sep 20 07:30:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 07:40:01 localhost systemd: Created slice User Slice of root.
+Sep 20 07:40:01 localhost systemd: Started Session 336 of user root.
+Sep 20 07:40:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 07:50:01 localhost systemd: Created slice User Slice of root.
+Sep 20 07:50:01 localhost systemd: Started Session 337 of user root.
+Sep 20 07:50:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 08:00:01 localhost systemd: Created slice User Slice of root.
+Sep 20 08:00:01 localhost systemd: Started Session 338 of user root.
+Sep 20 08:00:02 localhost systemd: Removed slice User Slice of root.
+Sep 20 08:01:01 localhost systemd: Created slice User Slice of root.
+Sep 20 08:01:01 localhost systemd: Started Session 339 of user root.
+Sep 20 08:01:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 08:10:01 localhost systemd: Created slice User Slice of root.
+Sep 20 08:10:01 localhost systemd: Started Session 340 of user root.
+Sep 20 08:10:01 localhost systemd: Removed slice User Slice of root.
+Sep 20 08:14:26 localhost systemd: Created slice User Slice of root.
+Sep 20 08:14:26 localhost systemd: Started Session 341 of user root.
+Sep 20 08:14:26 localhost systemd-logind: New session 341 of user root.
+Sep 20 08:14:27 localhost dbus[698]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Sep 20 08:14:27 localhost systemd: Started Session 342 of user root.
+Sep 20 08:14:27 localhost systemd-logind: New session 342 of user root.
+Sep 20 08:14:27 localhost dbus[698]: [system] Successfully activated service 'org.freedesktop.problems'
+Sep 20 08:20:01 localhost systemd: Started Session 343 of user root.
+Sep 20 08:30:01 localhost systemd: Started Session 344 of user root.
+Sep 20 08:40:01 localhost systemd: Started Session 345 of user root.
+Sep 20 08:50:01 localhost systemd: Started Session 346 of user root.
+Sep 20 09:00:01 localhost systemd: Started Session 347 of user root.
+Sep 20 09:01:01 localhost systemd: Started Session 348 of user root.
+Sep 20 09:09:18 localhost systemd: Starting Cleanup of Temporary Directories...
+Sep 20 09:09:18 localhost systemd: Started Cleanup of Temporary Directories.
+Sep 20 09:10:01 localhost systemd: Started Session 349 of user root.
+Sep 20 09:20:01 localhost systemd: Started Session 350 of user root.
+Sep 20 09:30:01 localhost systemd: Started Session 351 of user root.
+Sep 20 09:40:01 localhost systemd: Started Session 352 of user root.
+Sep 20 09:50:01 localhost systemd: Started Session 353 of user root.
+Sep 20 10:00:01 localhost systemd: Started Session 354 of user root.
+Sep 20 10:01:01 localhost systemd: Started Session 355 of user root.
+Sep 20 10:10:01 localhost systemd: Started Session 356 of user root.
+Sep 20 10:20:01 localhost systemd: Started Session 357 of user root.
+Sep 20 10:30:01 localhost systemd: Started Session 358 of user root.
+Sep 20 10:40:01 localhost systemd: Started Session 359 of user root.
+Sep 20 10:50:01 localhost systemd: Started Session 360 of user root.
+Sep 20 11:00:01 localhost systemd: Started Session 361 of user root.
+Sep 20 11:01:01 localhost systemd: Started Session 362 of user root.
+Sep 20 11:10:01 localhost systemd: Started Session 363 of user root.
+Sep 20 11:20:01 localhost systemd: Started Session 364 of user root.
+Sep 20 11:30:01 localhost systemd: Started Session 365 of user root.
+Sep 20 11:40:01 localhost systemd: Started Session 366 of user root.
+Sep 20 11:50:01 localhost systemd: Started Session 367 of user root.
+Sep 20 12:00:01 localhost systemd: Started Session 368 of user root.
+Sep 20 12:01:02 localhost systemd: Started Session 369 of user root.
+Sep 20 12:10:01 localhost systemd: Started Session 370 of user root.
+Sep 20 12:20:01 localhost systemd: Started Session 371 of user root.
+Sep 20 12:30:01 localhost systemd: Started Session 372 of user root.
+Sep 20 12:40:01 localhost systemd: Started Session 373 of user root.
+Sep 20 12:50:01 localhost systemd: Started Session 374 of user root.
+Sep 20 13:00:01 localhost systemd: Started Session 375 of user root.
+Sep 20 13:01:01 localhost systemd: Started Session 376 of user root.
+Sep 20 13:10:01 localhost systemd: Started Session 377 of user root.
+Sep 20 13:20:02 localhost systemd: Started Session 378 of user root.
+Sep 20 13:30:01 localhost systemd: Started Session 379 of user root.
+Sep 20 13:40:01 localhost systemd: Started Session 380 of user root.
+Sep 20 13:50:01 localhost systemd: Started Session 381 of user root.
+Sep 20 14:00:01 localhost systemd: Started Session 382 of user root.
+Sep 20 14:01:01 localhost systemd: Started Session 383 of user root.
+Sep 20 14:10:01 localhost systemd: Started Session 384 of user root.
+Sep 20 14:20:01 localhost systemd: Started Session 385 of user root.
+Sep 20 14:30:01 localhost systemd: Started Session 386 of user root.
+Sep 20 14:40:01 localhost systemd: Started Session 387 of user root.
+Sep 20 14:50:01 localhost systemd: Started Session 388 of user root.
+Sep 20 15:00:01 localhost systemd: Started Session 389 of user root.
+Sep 20 15:01:01 localhost systemd: Started Session 390 of user root.
+Sep 20 15:10:01 localhost systemd: Started Session 391 of user root.
+Sep 20 15:20:01 localhost systemd: Started Session 392 of user root.
+Sep 20 15:30:01 localhost systemd: Started Session 393 of user root.
+Sep 20 15:40:01 localhost systemd: Started Session 394 of user root.
+Sep 20 15:50:01 localhost systemd: Started Session 395 of user root.
+Sep 20 16:00:01 localhost systemd: Started Session 396 of user root.
+Sep 20 16:01:01 localhost systemd: Started Session 397 of user root.
+Sep 20 16:10:01 localhost systemd: Started Session 398 of user root.
+Sep 20 16:19:45 localhost rtkit-daemon[674]: The canary thread is apparently starving. Taking action.
+Sep 20 16:19:45 localhost rtkit-daemon[674]: Demoting known real-time threads.
+Sep 20 16:19:45 localhost rtkit-daemon[674]: Successfully demoted thread 2294 of process 2288 (/usr/bin/pulseaudio).
+Sep 20 16:19:45 localhost rtkit-daemon[674]: Successfully demoted thread 2291 of process 2288 (/usr/bin/pulseaudio).
+Sep 20 16:19:45 localhost rtkit-daemon[674]: Successfully demoted thread 2288 of process 2288 (/usr/bin/pulseaudio).
+Sep 20 16:19:45 localhost rtkit-daemon[674]: Demoted 3 threads.
+Sep 20 16:20:01 localhost systemd: Started Session 399 of user root.
+Sep 20 16:20:23 localhost systemd: Started Session 400 of user root.
+Sep 20 16:20:23 localhost systemd-logind: New session 400 of user root.
+Sep 20 16:20:24 localhost dbus[698]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Sep 20 16:20:24 localhost systemd: Started Session 401 of user root.
+Sep 20 16:20:24 localhost systemd-logind: New session 401 of user root.
+Sep 20 16:20:24 localhost dbus[698]: [system] Successfully activated service 'org.freedesktop.problems'
+Sep 20 16:30:01 localhost systemd: Started Session 402 of user root.
+Sep 20 16:40:01 localhost systemd: Started Session 403 of user root.
+Sep 20 16:50:01 localhost systemd: Started Session 404 of user root.
+Sep 20 17:00:01 localhost systemd: Started Session 405 of user root.
+Sep 20 17:01:01 localhost systemd: Started Session 406 of user root.
+Sep 20 17:10:01 localhost systemd: Started Session 407 of user root.
+Sep 20 17:20:01 localhost systemd: Started Session 408 of user root.
+Sep 20 17:30:01 localhost systemd: Started Session 409 of user root.
+Sep 20 17:40:02 localhost systemd: Started Session 410 of user root.
+Sep 20 17:50:01 localhost systemd: Started Session 411 of user root.
+Sep 20 18:00:01 localhost systemd: Started Session 412 of user root.
+Sep 20 18:01:01 localhost systemd: Started Session 413 of user root.
+Sep 20 18:10:01 localhost systemd: Started Session 414 of user root.
+Sep 20 18:20:01 localhost systemd: Started Session 415 of user root.
+Sep 20 18:26:02 localhost systemd-logind: Removed session 341.
+Sep 20 18:26:02 localhost systemd-logind: Removed session 342.
+Sep 20 18:30:01 localhost systemd: Started Session 416 of user root.
+Sep 20 18:40:01 localhost systemd: Started Session 417 of user root.
+Sep 20 18:50:01 localhost systemd: Started Session 418 of user root.
+Sep 20 18:56:37 localhost systemd-logind: Removed session 400.
+Sep 20 18:56:37 localhost systemd-logind: Removed session 401.
+Sep 20 18:56:37 localhost systemd: Removed slice User Slice of root.
+Sep 20 18:56:41 localhost systemd: Created slice User Slice of root.
+Sep 20 18:56:41 localhost systemd: Started Session 419 of user root.
+Sep 20 18:56:41 localhost systemd-logind: New session 419 of user root.
+Sep 20 18:56:41 localhost systemd: Started Session 420 of user root.
+Sep 20 18:56:41 localhost systemd-logind: New session 420 of user root.
+Sep 20 18:56:41 localhost dbus[698]: [system] Activating service name='org.freedesktop.problems' (using servicehelper)
+Sep 20 18:56:41 localhost dbus[698]: [system] Successfully activated service 'org.freedesktop.problems'
+Sep 20 18:56:51 localhost systemd-logind: Removed session 419.
+Sep 20 18:56:51 localhost systemd-logind: Removed session 420.
+Sep 20 18:56:51 localhost systemd: Removed slice User Slice of root.
+Sep 20 18:57:22 localhost systemd: Created slice User Slice of vanessa.
+Sep 20 18:57:22 localhost systemd: Started Session 421 of user vanessa.
+Sep 20 18:57:22 localhost systemd-logind: New session 421 of user vanessa.
+Sep 20 18:57:23 localhost systemd: Started Session 422 of user vanessa.
+Sep 20 18:57:23 localhost systemd-logind: New session 422 of user vanessa.
+Sep 20 18:57:31 localhost dbus[698]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep 20 18:57:31 localhost systemd: Starting Fingerprint Authentication Daemon...
+Sep 20 18:57:32 localhost dbus[698]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep 20 18:57:32 localhost systemd: Started Fingerprint Authentication Daemon.
+Sep 20 18:57:39 localhost su: (to root) vanessa on pts/1
+Sep 20 18:57:56 localhost su: (to vanessa) vanessa on pts/1
+Sep 20 18:58:03 localhost dbus[698]: [system] Activating via systemd: service name='net.reactivated.Fprint' unit='fprintd.service'
+Sep 20 18:58:03 localhost systemd: Starting Fingerprint Authentication Daemon...
+Sep 20 18:58:03 localhost dbus[698]: [system] Successfully activated service 'net.reactivated.Fprint'
+Sep 20 18:58:03 localhost systemd: Started Fingerprint Authentication Daemon.
+Sep 20 18:58:07 localhost su: FAILED SU (to root) vanessa on pts/1
+Sep 20 18:58:17 localhost su: (to root) vanessa on pts/1

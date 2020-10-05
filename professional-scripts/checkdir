@@ -1,0 +1,22 @@
+#!/bin/bash
+# date
+# author
+# Description: This script will find directories without users
+
+# * means finding everything is the /home and putting in DIR
+# grep -c option will count whatever it found in the /home and compare it to what we have in the /etc/passwd
+
+
+cd /home
+for DIR in *
+do	
+	CHK=$(grep -c "/home/$DIR" /etc/passwd)
+	if [ $CHK -ge 1 ]
+	then
+	echo "$DIR is assigned to a user"
+	else
+	echo "$DIR is Not assigned to a user"
+	fi
+done
+
+	

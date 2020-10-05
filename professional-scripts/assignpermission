@@ -1,0 +1,16 @@
+#!/bin/bash
+# Date
+# Description: This script will creates multiple files
+
+
+total=`ls -l vanes* | wc -l` 
+
+echo It will take $total seconds to assign permissions
+echo
+
+for i in vanes*
+do 
+	echo assigning write permissions to $i
+	chmod a+w $i
+	sleep 1
+done

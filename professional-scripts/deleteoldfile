@@ -1,0 +1,6 @@
+#!/bin/bash
+# Auhtor
+# Description: This script will delete files older than 90 days
+
+
+find /root/udemyscript/professional-scripts -mtime +90 -exec rm {} \; 

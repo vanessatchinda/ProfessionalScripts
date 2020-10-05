@@ -1,0 +1,12 @@
+#!/bin/bash
+# Date 
+# Description: This script will copy files to remote hosts
+
+# abc will be the name of the file when we specified the host
+
+a=`cat /root/udemyscript/abc`
+
+for i in $a
+do
+	scp somefile $i:/tmp
+done

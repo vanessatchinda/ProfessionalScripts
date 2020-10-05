@@ -1,0 +1,16 @@
+#!/bin/bash
+#
+# Description: This script will send an email to administrator
+# [if-s makes sure the file really exist before it is send to the admin
+# we are removing messages after sending it because we do not want new messages to meet old messages.
+
+IT="vanessatchinda@yahoo.fr,patricefozin@gmail.com"
+
+	if [ -s /tmp/filtered-messages ]
+	then
+	cat /tmp/filtered-messages | sort | uniq | mail -s "syslog message" $IT
+	rm /tmp/filtered-messagges
+	else
+	fi
+
+
